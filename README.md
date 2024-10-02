@@ -1,5 +1,7 @@
 # Link Grabber Chrome Extension
 
+![Link Grabber](./output/1.png)
+
 A Chrome extension that allows users to grab and store links either manually or automatically, displaying them in the extension popup. The stored data is saved locally and can be deleted with a double confirmation.
 
 ## Features
@@ -50,3 +52,7 @@ The external CSS file that contains the styling for the popup, including layout 
 4. Click **Load unpacked** and select the directory containing this extension.
 5. The extension will now appear in your browser's extensions bar.
 
+## Output
+
+# 1.
+![Sample Output 2](./output/2.png)
